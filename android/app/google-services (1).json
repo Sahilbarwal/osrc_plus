@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618348486014",
+    "project_id": "osrc-plus",
+    "storage_bucket": "osrc-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618348486014:android:309027bde7d4615b16a72f",
+        "android_client_info": {
+          "package_name": "com.osrc.plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb3nJJttJaEpy2RKdtXgbOVLBbckBj9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
